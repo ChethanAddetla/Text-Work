@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Text-Work/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/Text-Work/static/js/main.4c64f201.chunk.js",
+    "main.js.map": "/Text-Work/static/js/main.4c64f201.chunk.js.map",
+    "runtime~main.js": "/Text-Work/static/js/runtime~main.ec1ccef5.js",
+    "runtime~main.js.map": "/Text-Work/static/js/runtime~main.ec1ccef5.js.map",
+    "static/js/2.a2b181a3.chunk.js": "/Text-Work/static/js/2.a2b181a3.chunk.js",
+    "static/js/2.a2b181a3.chunk.js.map": "/Text-Work/static/js/2.a2b181a3.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/Text-Work/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/Text-Work/static/js/3.940f5f6f.chunk.js.map",
+    "index.html": "/Text-Work/index.html",
+    "precache-manifest.a6179c5c8ff114ae101be3b32a3efc4a.js": "/Text-Work/precache-manifest.a6179c5c8ff114ae101be3b32a3efc4a.js",
+    "service-worker.js": "/Text-Work/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/Text-Work/static/css/main.27fd15f6.chunk.css.map"
+  }
+}
